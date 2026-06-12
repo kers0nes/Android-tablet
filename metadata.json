@@ -1,0 +1,6 @@
+{
+  "name": "Termux Terminal",
+  "description": "A visually polished, functional terminal emulator and Linux tool emulator with an integrated shell processor, a full-screen nano/vim-style file editor, local package installer simulation, custom shell session management, and a smart Gemini terminal copilot helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
